@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khoa Pham (AK)</h1>
-<h3 align="center">A passionate A passionate FullStack Developer and Data Analyst from Australia</h3>
+<h3 align="center">A passionate FullStack Developer and Data Analyst from Australia</h3>
 <br>
 
 I have recently completed my Bachelor of Computer Science at Swinburne University, majoring in Data Science.
