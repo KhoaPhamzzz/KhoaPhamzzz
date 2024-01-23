@@ -24,11 +24,12 @@ I really enjoy learning new languages and frameworks like Angular, as well as wo
 
 <p align="center">
   <!-- BEGIN DOWNLOAD CV BUTTON -->
-  <a href="https://github.com/KhoaPhamzzz/Khoa-s-CV/blob/main/Khoa%20Anh%20Pham%20CV.pdf">
+  <a href="https://github.com/KhoaPhamzzz/Khoa-s-CV/raw/main/Khoa%20Anh%20Pham%20CV.pdf" target="_blank">
     <img src="https://custom-icon-badges.demolab.com/badge/-Download%20CV-blue?style=for-the-badge&logo=download&logoColor=white" alt="Download CV">
   </a>
   <!-- END DOWNLOAD CV BUTTON -->
 </p>
+
 
 
 ---
