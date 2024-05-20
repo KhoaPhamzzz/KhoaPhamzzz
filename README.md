@@ -1,25 +1,19 @@
 <h1 align="center">Hi 👋, I'm Khoa Pham (AK)</h1>
-<h3 align="center">A passionate FullStack Developer and Data Analyst from Australia</h3>
+<h3 align="center">A passionate FullStack Developer from Australia</h3>
 <br>
 
-I have recently completed my Bachelor of Computer Science at Swinburne University, majoring in Data Science.
-I am interested in data work such as finding patterns and trends in datasets to uncover insights and forecast
-outcomes. I am also inspired to innovate ideas and techniques for creating software that help people have an
-easier, efficient, and enjoyable life.
+I am a dedicated software developer specializing in web development, excelling in both full-stack and
+frontend. With a comprehensive understanding of HTML, CSS, JavaScript, TypeScript, I craft intuitive user
+interfaces and seamless web experiences. My proficiency extends to backend development using
+frameworks like Angular and React, enabling me to optimize website performance and implement complex
+functionalities with ease.
 <br>
 <br>
-My strongest attribute is my determination. I take on every challenge head-on and do what I need to accomplish
-my goals, even when the challenge is difficult. Every time I faced a new challenge in my previous projects,
-whether it was leading my first team project or meeting a quick deadline, I always enjoyed stepping up and
-demonstrating my skills to come up with a quick solution.
-<br>
-<br>
-Frontend development has always sparked my interest. With the knowledge I have gained and some experience
-of group projects while studying at Swinburne and some self-planned projects, I am confident that my knowledge
-and experiences would be useful to the Web Development industry.
-<br>
-<br>
-I really enjoy learning new languages and frameworks like Angular, as well as work in WordPress. I also enjoy character design using Blender and Maya, ui, ux, and design in general.
+Thriving in the dynamic world of web development, I tackle challenges head-on, translating design
+concepts into responsive and interactive interfaces. My passion lies in leveraging modern frameworks and
+libraries to deliver polished, user-friendly experiences. With a strong foundation in both frontend and
+backend development, coupled with hands-on project experience, I am committed to pushing the
+boundaries of innovation in web development, creating engaging digital solutions that resonate with users.
 
 
 <p align="center">
@@ -43,9 +37,7 @@ I really enjoy learning new languages and frameworks like Angular, as well as wo
   Project Manager: (Dr Thien Nguyen) <br>
   Contact: thien.nguyen@torrens.edu.au
 
-- 🌱 I’m currently learning **Angular**
-
-- 👨‍💻 All of my projects are available at [https://github.com/KhoaPhamzzz?tab=repositories](https://github.com/KhoaPhamzzz?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/KhoaPhamzzz?tab=repositories](https://github.com/KhoaPhamzzz?tab=repositories) or visit my Portfolio: https://khoaphams.com/ 
 
 - 📫 How to reach me **akpham28@gmail.com**
 
