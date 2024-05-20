@@ -18,7 +18,7 @@ boundaries of innovation in web development, creating engaging digital solutions
 
 <p align="center">
   <!-- BEGIN DOWNLOAD CV BUTTON -->
-  <a href="https://github.com/KhoaPhamzzz/Khoa-s-CV/raw/main/Khoa%20Anh%20Pham%20CV.pdf" target="_blank">
+  <a href="https://github.com/KhoaPhamzzz/Khoa-s-CV/raw/main/Khoa%20Anh%20Pham%20CV2.pdf" target="_blank">
     <img src="https://custom-icon-badges.demolab.com/badge/-Download%20CV-blue?style=for-the-badge&logo=download&logoColor=white" alt="Download CV">
   </a>
   <!-- END DOWNLOAD CV BUTTON -->
